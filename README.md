@@ -1,2 +1,2 @@
 # projeto-site
- Projeto de um site criado durante o curso de Git e GitHub do "Curdo em Video" - Gustavo Guanabara
+ Projeto de um site criado durante o curso de Git e GitHub do "Curso em Video" - Gustavo Guanabara
